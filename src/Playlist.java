@@ -27,8 +27,8 @@ public class Playlist {
 
 
 
-       System.out.println("First song: " + playlist.get(0));
-       System.out.println("Last song: " + playlist.get(5));
+       System.out.println("First song: " + playlist.get(5));
+       System.out.println("Last song: " + playlist.get(0));
 
 
         // Step 5: Print the last song in the playlist
